@@ -1,0 +1,19 @@
+hr{
+    border-top: black dotted !important;
+}
+
+.sbmt{
+    width: 13%;
+}
+.color{
+    background-color: #f7ecde;
+}
+
+.text{
+    background: linear-gradient(90deg, #1a6e32, #d4cd40);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+}
